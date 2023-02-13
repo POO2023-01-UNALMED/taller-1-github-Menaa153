@@ -1,3 +1,8 @@
+
 CRISTIAN ESNEIDER IMBACUAN MENA
 20 AÑOS
 ENTENDER LOS CONCEPTOS BÁSICOS Y SABER UTILIZAR LAS TÉCNICAS Y TECNOLOGÍAS FUNDAMENTALES DE LA POO
+
+Ahora se puede hacer commit porque la carpeta no esta vacía
+
+Es importante tener cuidado porque se pueden generar conflictos
